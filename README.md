@@ -8,8 +8,8 @@ This project shows visually how sudoku puzzle is solved by using recursion (back
 Here is a working live demo: [http://visual-sudoku-solver.herokuapp.com/](http://visual-sudoku-solver.herokuapp.com/)
 
 # Features
-⋅⋅* Generate valid sudoku puzzle
-⋅⋅* Visually solve sudoku (set steps per second)
-⋅⋅* Instant sudoku puzzle solve
+* Generate valid sudoku puzzle
+* Visually solve sudoku (set steps per second)
+* Instant sudoku puzzle solve
 
 
